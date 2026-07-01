@@ -1,5 +1,7 @@
 # ChaoScan
 
+English | [简体中文](README.zh-CN.md)
+
 ChaoScan is a lightweight Android document scanner for turning photos and PDFs into clean scan-like files. It focuses on fast batch workflows: import many images, crop and reorder pages, tune scan filters, save drafts, and export PDF/JPG/PNG files.
 
 The app intentionally does not include OCR. The goal is a smaller, faster scanner that keeps the main document-processing path easy to inspect and debug.
