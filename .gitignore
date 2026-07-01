@@ -1,0 +1,36 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.agents/
+.codex/
+
+# Generated APKs and bundles
+*.apk
+*.aab
+*.ap_
+
+# Local bundled tooling and SDKs
+tooling/
+/logo.png
+
+# Local experiments / downloaded model repositories
+external_models/
+model_probe_outputs/
+tmp_pictureselector/
+tools/
+zero_dce_pp_*.py
+zero_dce_pp_*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

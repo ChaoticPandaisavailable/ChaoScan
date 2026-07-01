@@ -1,0 +1,2 @@
+-keep class com.google.mlkit.vision.documentscanner.** { *; }
+-dontwarn com.google.mlkit.vision.documentscanner.**
