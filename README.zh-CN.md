@@ -2,6 +2,10 @@
 
 [English](README.md) | 简体中文
 
+[![下载 APK](https://img.shields.io/badge/下载_APK-v1.0.0-01C260?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ChaoticPandaisavailable/ChaoScan/releases/download/v1.0.0/ChaoScan-1.0.0.apk)
+
+**最新版 Android APK：** [下载 ChaoScan 1.0.0](https://github.com/ChaoticPandaisavailable/ChaoScan/releases/download/v1.0.0/ChaoScan-1.0.0.apk)
+
 ChaoScan 是一款轻量级 Android 文档扫描应用，用来把照片和 PDF 整理成清晰的扫描件。它重点优化批量处理流程：一次导入多张图片，裁剪、排序、调整扫描滤镜，保存草稿，并导出 PDF/JPG/PNG 文件。
 
 ## 截图

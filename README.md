@@ -2,6 +2,10 @@
 
 English | [简体中文](README.zh-CN.md)
 
+[![Download APK](https://img.shields.io/badge/Download_APK-v1.0.0-01C260?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ChaoticPandaisavailable/ChaoScan/releases/download/v1.0.0/ChaoScan-1.0.0.apk)
+
+**Latest Android APK:** [Download ChaoScan 1.0.0](https://github.com/ChaoticPandaisavailable/ChaoScan/releases/download/v1.0.0/ChaoScan-1.0.0.apk)
+
 ChaoScan is a lightweight Android document scanner for turning photos and PDFs into clean scan-like files. It focuses on fast batch workflows: import many images, crop and reorder pages, tune scan filters, save drafts, and export PDF/JPG/PNG files.
 
 The app intentionally does not include OCR. The goal is a smaller, faster scanner that keeps the main document-processing path easy to inspect and debug.
