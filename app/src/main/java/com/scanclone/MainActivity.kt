@@ -1421,6 +1421,7 @@ class MainActivity : ComponentActivity() {
             } else {
                 movedIndex.coerceIn(0, pages.lastIndex)
             }
+            title.text = pageTitle()
             stripAdapter.selectedIndex = selectedPageIndex
             refreshPreview(preview, progress, maxLongEdge = mainPreviewLongEdge)
         }
