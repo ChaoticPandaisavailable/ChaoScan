@@ -4,6 +4,12 @@ ChaoScan is a lightweight Android document scanner for turning photos and PDFs i
 
 The app intentionally does not include OCR. The goal is a smaller, faster scanner that keeps the main document-processing path easy to inspect and debug.
 
+## Screenshots
+
+| Home | Editor |
+| --- | --- |
+| ![Home](1.jpg) | ![Editor](2.jpg) |
+
 ## Features
 
 - Import images from the system gallery with ordered multi-select.
@@ -53,4 +59,8 @@ Large local folders such as Android SDK tooling, downloaded model experiments, G
 
 ## License
 
-No license has been selected yet.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
+## Acknowledgements
+
+Special thanks to [ChrisTinaAmadeus](https://github.com/ChrisTinaAmadeus) for the notes example.
